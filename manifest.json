@@ -1,17 +1,17 @@
 {
-  "name": "My Gramify - English Grammar Practice",
+  "name": "My Gramify",
   "short_name": "My Gramify",
-  "description": "56 in-depth grammar lessons, 5,000+ practice questions with explanations, a placement test, and practice games.",
+  "description": "A free English grammar reference with real chapter tests. No ads, no subscription.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f6f8",
-  "theme_color": "#4c63e8",
+  "background_color": "#faf8f4",
+  "theme_color": "#2b3a67",
   "orientation": "any",
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ],
-  "categories": ["education", "productivity"],
+  "categories": ["education", "reference"],
   "lang": "en"
 }
